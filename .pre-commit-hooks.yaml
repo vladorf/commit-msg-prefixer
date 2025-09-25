@@ -1,0 +1,5 @@
+- id: prefix-commit-msg
+  name: Prefix commit msg with company standart metadata
+  entry: commit-msg-prefixer
+  language: golang
+  stages: [commit-msg]

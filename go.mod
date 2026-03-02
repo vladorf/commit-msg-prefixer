@@ -1,3 +1,3 @@
 module github.com/vladorf/commit-msg-prefixer
 
-go 1.22.8
+go 1.25.6
